@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  app.cpp
+  BlobDemo.cpp
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\BlobDemo.cpp(14,49): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\BlobDemo.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\BlobDemo.cpp(65,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\BlobDemo.cpp(315,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+  particle.cpp
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\particle.cpp(39,23): warning C4056: overflow in floating-point constant arithmetic
+  pcontacts.cpp
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\pcontacts.cpp(112,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\src\pcontacts.cpp(144,28): warning C4056: overflow in floating-point constant arithmetic
+  pworld.cpp
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  quadTree.cpp
+C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\include\coreMath.h(143,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Sphere.vcxproj -> C:\Users\kasper\Documents\Projects OO\assignment\test 3 with grid\CS4D768  Georgio Zeilaa\Sphere\..\Debug\Sphere.exe
